@@ -108,8 +108,7 @@ RxJava+RxBus+Retrofit+Glide+Material Design Weather App
 
 ##Screenshot
 基于MVP :https://github.com/pinguo-sunjianfei/Android-Application-ZJB
-###### 新闻列表
-![image](https://raw.githubusercontent.com/liuling07/SimpleNews/master/screenshot/news.png)  
+[https://github.com/pinguo-sunjianfei/Android-Application-ZJB](https://github.com/pinguo-sunjianfei/Android-Application-ZJB)
 
 ## MEZHI
 [https://github.com/drakeet/Meizhi/tree/master](https://github.com/drakeet/Meizhi/tree/master)
