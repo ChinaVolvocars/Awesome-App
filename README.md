@@ -117,3 +117,7 @@ https://github.com/burgessjp/GanHuoIO/blob/master/app/src/main/res/layout/activi
 
 
 https://github.com/ChinaVolvocars/CloudReader
+
+https://github.com/aa112901/remusic
+
+https://github.com/li-yu/FakeWeather
