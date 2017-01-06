@@ -114,3 +114,6 @@ RxJava+RxBus+Retrofit+Glide+Material Design Weather App
 [https://github.com/drakeet/Meizhi/tree/master](https://github.com/drakeet/Meizhi/tree/master)
 
 https://github.com/burgessjp/GanHuoIO/blob/master/app/src/main/res/layout/activity_main.xml
+
+
+https://github.com/ChinaVolvocars/CloudReader
