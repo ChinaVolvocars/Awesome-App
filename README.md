@@ -120,3 +120,4 @@ https://github.com/aa112901/remusic
 
 https://github.com/li-yu/FakeWeather
 https://github.com/youlookwhat/CloudReader
+https://github.com/kaku2015/ColorfulNews
