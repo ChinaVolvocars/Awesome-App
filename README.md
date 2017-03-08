@@ -123,6 +123,19 @@ https://github.com/youlookwhat/CloudReader
 https://github.com/kaku2015/ColorfulNews
 
 
+## 洛克商城APP
+https://github.com/Shuyun123/LKShop
+## 嗨豹
+https://github.com/sealtalk/sealtalk-android
+## 豆瓣客户端
+https://github.com/DreaminginCodeZH/Douya
+## 简阅
+https://github.com/chentao0707/SimplifyReader
+## 哔哩哔哩
+https://github.com/MichaelHuyp/Bilibili_Wuxianda
+
+## 网易云音乐
+https://github.com/aa112901/remusic
 
 # 前言
 
