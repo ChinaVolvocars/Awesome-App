@@ -137,6 +137,8 @@ https://github.com/MichaelHuyp/Bilibili_Wuxianda
 ## 网易云音乐
 https://github.com/aa112901/remusic
 
+## Phonograph Music Player 开源啦，这可是一个拥有 百万级下载量的 Google Play 播放器
+https://github.com/kabouzeid/Phonograph
 # 前言
 
 成为一名专业程序员的道路上，需要坚持练习、学习与积累，技术方面既要有一定的广度，更要有自己的深度。
