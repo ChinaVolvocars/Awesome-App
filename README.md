@@ -1,6 +1,9 @@
 # Awesome-App
 收集的一些app啦
 
+## 众筹kicksatarter
+https://github.com/kickstarter/android-oss
+
 ## Plaid
 基于Material Design 的App
 [https://github.com/nickbutcher/plaid](https://github.com/nickbutcher/plaid)
