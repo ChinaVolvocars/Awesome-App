@@ -141,3 +141,45 @@ https://github.com/aa112901/remusic
 
 ## Phonograph Music Player 开源啦，这可是一个拥有 百万级下载量的 Google Play 播放器
 https://github.com/kabouzeid/Phonograph
+
+# 1 . Android App MVP Architecture 
+https://github.com/MindorksOpenSource/android-mvp-architecture
+Github Project Link
+This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, Fast-Android-Networking and PlaceholderView.
+
+# 2 . The Google I/O Android App
+https://github.com/google/iosched
+Google I/O is a developer conference held each year with two days of deep technical. It features hundreds of demonstrations from developers showcasing their technologies.
+
+# 3 . Google Android Architecture Blueprints
+https://github.com/googlesamples/android-architecture
+The Android framework offers a lot of flexibility when it comes organizing and architecting an Android app. This freedom, while valuable, can result in apps with large classes and inconsistent naming. This can make testing, maintaining, and extending difficult.
+Android Architecture Blueprints is meant to demonstrate possible ways to help with these common problems. This project shows the same application implemented over and over again using different architectural concepts and tools.
+You can use these samples as a reference, or as a starting point for creating your own apps. The focus here is on code structure, architecture, testing, and maintainability. However, bear in mind that there are many ways to build apps with these architectures and tools. Focus on your own priorities and don’t get too caught up in what might be considered canonical examples.
+
+# 4 . Telegram
+https://github.com/DrKLO/Telegram
+Telegram is a messaging app with a focus on speed and security. It’s super fast, simple, and free. This repo contains the official source code for Telegram App for Android.
+
+# 5 . Plaid
+https://github.com/nickbutcher/plaid
+An Android app which provides design news and inspiration, as well as being a great implementation of material design.
+
+# 6 . Wire
+https://github.com/wireapp/wire-android
+This chat application is full of pictures, movies, GIFs, music, sketches, and other forms of media. It’s always private, and offers secure with end-to-end encryption.
+
+# 7 . ribot Android App
+https://github.com/ribot/ribot-app-android
+
+# 8 . Kickstarter
+https://github.com/kickstarter/android-oss
+Kickstarter is a global community that helps bring creative projects to life. Explore thousands of projects in art, design, film, games, music, and more, and pledge to your favorites right from the app.
+
+# 9 . PocketHub
+https://github.com/pockethub/PocketHub
+GitHub didn’t want to maintain the app anymore, so it’s been released to the community and maintained as a public project. They are actively working towards a re-release this app to the Play Store. This app will be the spiritual successor to the original GitHub app.
+
+# 10 . Android MVP Sample Application
+https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application
+A very simple app showing how to implement MVP architecture.
