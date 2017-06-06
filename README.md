@@ -183,3 +183,6 @@ GitHub didn’t want to maintain the app anymore, so it’s been released to the
 # 10 . Android MVP Sample Application
 https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application
 A very simple app showing how to implement MVP architecture.
+
+# 11 . 来疯直播安卓控件，支持flv，支持rtmp，支持添加视频特效等等
+https://github.com/LaiFeng-Android/SopCastComponent
