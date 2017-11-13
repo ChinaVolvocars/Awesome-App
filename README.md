@@ -186,3 +186,10 @@ A very simple app showing how to implement MVP architecture.
 
 # 11 . 来疯直播安卓控件，支持flv，支持rtmp，支持添加视频特效等等
 https://github.com/LaiFeng-Android/SopCastComponent
+
+https://github.com/GcsSloop/diycode
+
+https://github.com/maoruibin/TranslateApp
+https://github.com/LRH1993/Eyepetizer-in-Kotlin
+https://github.com/iMeiji/Toutiao
+https://github.com/TeamCodeForGit/DouYu
